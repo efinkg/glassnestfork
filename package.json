@@ -3,10 +3,10 @@
   "description": "An integration between the nest thermostat and google glass",
   "version": "0.1.0",
   "private": true,
-  "author": "jrundquist (http://github.com/jrundquist)",
+  "author": "efinkg (http://github.com/efinkg)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jrundquist/glass-nest.git"
+    "url": "https://github.com/efinkg/glassnestfork.git"
   },
   "engines": {
     "node": "0.8.14",
